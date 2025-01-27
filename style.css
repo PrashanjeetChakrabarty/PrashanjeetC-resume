@@ -105,7 +105,7 @@ section {
     font-size: 2.8rem;
     font-weight: 700;
     color: transparent;
-    color: #d77f0a;
+    color: #02083a;
     -webkit-text-stroke: .7px var(--main-color);
 }
 
@@ -188,8 +188,8 @@ section {
     width: 30px;
     height: 40px;
     background: var(--main-color);
-    border: 2.5rem solid rgb(100, 170, 178); ;
-    border-radius: 50%;
+    border: 2.5rem solid rgb(163, 248, 35); ;
+    border-radius: 65%;
     font-size: 58px;
     color: rgb(4, 66, 94);
     z-index: 1;
@@ -219,7 +219,7 @@ section {
 }
 
 
-<!about_section_design>
+<!--about_section_design-->
 
 .about{
     display: flex;
@@ -706,8 +706,6 @@ span{
         margin: 3rem 0;
     }
 }
-
-
 
 
 
